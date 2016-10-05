@@ -1,0 +1,14 @@
+
+body {
+	font-family: 'Raleway', sans-serif;
+	background-color: black;
+	color: white;
+}
+
+.photos {
+	height: 100px; width: 100px;
+}
+
+.photos:hover {
+    opacity: .5;
+}
